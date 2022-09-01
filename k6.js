@@ -7,6 +7,6 @@ export const options = {
 };
 
 export default function () {
-  http.get('http://mycontainernsguowbavs-sillydemo.functions.fnc.fr-par.scw.cloud');
+  http.get('http://myserverlessappsa2x51pal-sillydemo.functions.fnc.fr-par.scw.cloud');
   sleep(1);
 }
